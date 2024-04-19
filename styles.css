@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    padding: 2rem 6rem;
+}
+
+.header p{
+    margin: 0.6rem 0 0 0 ;
+    font-size: 1.4rem;
+}
+.header p:last-child{
+    margin-top: 2rem;
+}
+p{
+    font-size: 1.6rem;
+}
+h2{
+    font-size: 2rem;
+}
+ul{
+    margin-left: 3rem;
+}
+ul li{
+    font-size: 1.6rem;
+}
+
+ol {
+    font-size: 1.6rem;
+    margin-left: 3rem;
+}
